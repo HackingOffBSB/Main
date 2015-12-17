@@ -1,2 +1,2 @@
 # Main
-This is the main repo, yo
+What in the heck is Hacking Off?
