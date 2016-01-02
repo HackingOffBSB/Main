@@ -1,7 +1,7 @@
 # Main
-What in the heck is Hacking Off?
+####What in the heck is Hacking Off?
 
-Hacking Off is our chance to step away from our day-to-day work to focus on other projects that are both fun and helpful. 
+#####Hacking Off is our chance to step away from our day-to-day work to focus on other projects that are both fun and helpful. 
 Are you ready to get started? Here's what you do:
 
 * Come up with a great idea that will be benificial to you, your team, your development, your sanity, sports in general.
